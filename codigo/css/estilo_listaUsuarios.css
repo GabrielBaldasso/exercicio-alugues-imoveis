@@ -1,0 +1,49 @@
+.barra{
+    display: flex;
+    justify-content: space-around;
+    gap: 8px;
+}
+
+.dados, .fa-solid.fa-car, .fa-solid.fa-house, .fa-bed:before{
+    color: white;
+    font-size: 19px;
+}
+
+.card-body {
+    padding: 0;
+    margin: 0;
+}
+.info.d-flex {
+    background: rgb(84, 139, 182);
+    padding: 15px;
+    gap: 1rem;
+}
+.margin {
+    margin: 14px 21px;
+}
+.valor{
+    color: rgb(84, 139, 182);
+}
+
+
+/*Icones*/
+.fa-solid.fa-car, .fa-solid.fa-house, .fa-bed:before{
+    position: relative;
+    top: 5px;
+}
+
+hr.linha {
+    border: 2px solid, rgb(9, 9, 255);
+}
+
+
+.quadrado{
+    
+    padding: 5rem 2.5rem;
+    border-radius: 1rem;
+    border: 1px solid rgb(197, 206, 212);
+    backdrop-filter: blur(1rem);
+    box-shadow: 1.3rem 1.3rem 4.3rem rgba(255, 253, 253, 0.5);
+    margin-top: 120px;
+    
+}

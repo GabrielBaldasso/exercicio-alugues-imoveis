@@ -1,0 +1,15 @@
+.centro{
+	text-align: center;
+	align-items: center;
+}
+
+body{
+	background-image: url();
+	background-size: 100% ;
+}
+
+.banner-image{
+    background-image:  url();
+    background-size: cover;
+}
+

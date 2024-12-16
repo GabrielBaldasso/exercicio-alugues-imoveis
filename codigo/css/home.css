@@ -1,0 +1,110 @@
+.banner-image{
+    background-image:  url(../img/casa_home.jpg);
+    background-size: cover;
+}
+.title {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.alinhamento{
+    text-align: center;
+    padding-top: 120px;
+}
+hr{
+    text-align: center;
+    width: 50%;
+}
+img.card-img-top.imagem {
+    height: 14rem;
+}
+.container{
+    padding-top: 20px;
+}
+.barra {
+    font-size: 19px;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    gap: 8px;
+}
+.card-body {
+    padding: 0;
+    margin: 0;
+}
+.info.d-flex {
+    background: rgb(84, 139, 182);
+    padding: 15px;
+    gap: 1rem;
+}
+.margin {
+    margin: 14px 21px;
+}
+.valor{
+    color: rgb(84, 139, 182);
+}
+/*Icones*/
+.fa-bed:before {
+    content: "\f236";
+    position: relative;
+    top: 5px;
+}
+
+.fa-solid.fa-car {
+    position: relative;
+    position: relative;
+    top: 5px;
+}
+.fa-solid.fa-house{
+    position: relative;
+    top: 5px;
+}
+.quadrado2{
+    
+    padding: 5rem 2.5rem;
+    border-radius: 1rem;
+    border: 3px solid rgb(197, 206, 212);
+    backdrop-filter: blur(1rem);
+    box-shadow: 1.3rem 1.3rem 4.3rem rgba(255, 253, 253, 0.5);
+    margin-top: 120px;
+    
+}
+
+
+
+.atendimento{
+    gap: 2%;
+}
+
+.tam{
+    font-size: 162%;
+}
+.logo{
+    width: 79%;
+    height: 89%;
+}
+
+.fonte {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+mark {
+    background-color:aliceblue;
+}
+
+.baixo{
+    margin-bottom: 40px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.centro{
+    text-align: center;
+    align-items: center;
+}

@@ -1,0 +1,55 @@
+/* RODA PÉ */
+.footer{
+    width: 100%;
+    height: 250px;
+    padding: 50px 275px;
+    background: rgb(99,149, 204) url(../img/cidadeRodape.png) bottom center no-repeat;
+    position: static;
+    bottom: 0;
+    left: 0;
+}
+
+.footer2{
+    max-width: 1268pxpx;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col {
+    font-size: 134%;
+}
+
+.atendimento{
+    gap: 2%;
+}
+
+.tam{
+    font-size: 162%;
+}
+.logo{
+    width: 79%;
+    height: 89%;
+}
+
+.cor{
+    color: white;
+}
+.quadrado{
+	width: 1250px;
+	max-width: 1500px;
+	padding: 5rem 2.5rem;
+	border-radius: 1rem;
+	border: 1px solid black;
+	
+}
+.quadrado2{
+    padding: 5rem 2.5rem;
+    border-radius: 1rem;
+    border: 1px solid rgb(197, 206, 212);
+    backdrop-filter: blur(1rem);
+    box-shadow: 1.3rem 1.3rem 4.3rem rgba(255, 253, 253, 0.5);
+    margin-top: 120px;
+    
+	
+
+}
